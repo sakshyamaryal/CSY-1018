@@ -1,0 +1,6 @@
+table tr,td{
+	border: 1px solid black;
+	background-color: red;
+	border-collapse: collapse;
+
+}
